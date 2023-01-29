@@ -1,0 +1,30 @@
+{'soup':[
+    'corn-chowder',
+    'butternut-squash',
+    'hot n sour',
+    'french onion',
+    'tomoato bisque',
+    'cheddar broccoli',
+    'chili',
+    'italian wedding',
+    'coconut carrot ginger'],
+'sandwich':[
+    'gyros',
+    'pulled chicken'],
+'stovetop':[
+    'chicken marsala',
+    'pierogies',
+    'pad thai',
+    'chicken stir fry'],
+'airfrier':[
+    'chickpea fritters',
+    'tofu nuggies',
+    'fried cauliflower'],
+'crock':[
+    'apricot chicken',
+    'butter tofu'],
+'oven':[
+    'veggie pot pie',
+    'pizza',
+    'empanadas']
+}
